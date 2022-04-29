@@ -18,7 +18,11 @@ const run = async () => {
 
   const obj = await res.json()
 
-  if (obj?.success === false && obj?.message?.includes('附近餐厅暂不营业')) {
+  if (
+    obj?.success === false
+    // && obj?.message?.includes('附近餐厅暂不营业')
+    // or 在忙... 
+  ) {
     console.log(`不营业, wait 1500ms retry...`)
     setTimeout(() => {
       run()
