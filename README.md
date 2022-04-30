@@ -17,6 +17,12 @@
 
 必要参数自行在请求体里捞。
 
+### Practices
+
+谢谢，连吃几天已经吃不下了。
+
+<img width='50%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220501004047.jpg' />
+
 ### Inspiration
 
 [dingdong-tools](https://github.com/mingjiezhou/notes/issues/10): 半自动叮咚买菜、美团买菜工具🔧，帮助监视当前派送时段(运力)
